@@ -152,7 +152,7 @@ body {
      0 0 0 1px rgba(108, 52, 131, 0.1);
     transition: all 0.4s ease;
     object-fit: cover;
-    transform: translateX(50%);
+    transform: translateX(-50%);
     z-index: 10;
 }
 .profile-image {
